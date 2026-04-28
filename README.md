@@ -191,67 +191,72 @@ There is a column of skill in which the skills are mentioned that a learner can 
 
 ---
 
-## Technical Skills:-
-* **Programming & Databases:** Python, SQL (MySQL), DAX (Data Analysis Expressions), Advanced Excel
-* **Libraries & Packages:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, BeautifulSoup, requests, SQLAlchemy, mysql-connector-python, python-dotenv
-* **Tools & Environments:** Power BI, Tableau Public, VS Code, MySQL Workbench, JupyterLab, Anaconda, Git/GitHub, Linux/Windows environments
-* **Core Competencies:**
-    * **Data Analytics & Business Intelligence:** Data Analytics Lifecycle, Data Governance, Exploratory Data Analysis (EDA), Power Query (ETL), Data Modeling (Star Schema), Data Storytelling, Interactive Dashboarding, Visual Analytics.
-    * **Data Engineering & Database Management:** Relational Database Design, CRUD Operations, Complex Joins, Subqueries, Data Aggregation, Query Optimization (Views, Indexes), Database Automation (Triggers, Stored Procedures), Data Ingestion, JSON Parsing.
-    * **Programming Concepts:** Object-Oriented Programming (OOP), Functional Programming, Error Handling, Modular Programming, Decision Making Logic, Iteration & Control Flow, Memory Optimization.
-    * **Machine Learning & Statistics:** Predictive Modeling (Linear Regression, Random Forest), ML Pipelines, Supervised Learning, Model Evaluation, Numerical Computing, Statistical Visualization.
-    * **Other Technical Skills:** Data Ethics, Web Scraping, Code Conflict Resolution, Dependency Management.
+### Topicwise Skills Unlocked:-
+
+**Topic 1**: Foundations of Data Analytics (Google Professional Certificate)  
+**Skills:** Data Analytics Lifecycle, Data Governance, Critical Thinking, Spreadsheet Data Management, Advanced Excel, Data Ethics.
+
+**Topic 2**: Introduction to Data Science & Environments  
+**Skills:** Environment Setup, Data Science Fundamentals, Conda Workflow, Jupyter Environments, Dependency Management.
+
+**Topic 3**: Python Fundamentals  
+**Skills:** Python Scripting, Basic Python Skills, Data Type Management, String Manipulation, Decision Making Logic, Iteration & Control Flow, Sequence Data Structures, Mapping Data Structures, Modular Programming, Core Data Structures.
+
+**Topic 4**: Object-Oriented & Advanced Python  
+**Skills:** Object-Oriented Programming (OOP), OOP Principles, Advanced Class Design, List/Dict Comprehensions, Functional Programming, Error Handling, Code Reusability.
+
+**Topic 5**: File I/O & Data Formats  
+**Skills:** File Handling, Context Managers & Binary I/O, JSON Parsing, Data Ingestion.
+
+**Topic 6**: Analytics & Data Science: NumPy  
+**Skills:** Memory Optimization, Array Manipulation, Dimensionality Management, Vectorized Operations, Numerical Computing, Matrix Operations, High-Performance Array Manipulation.
+
+**Topic 7**: Analytics & Data Science: Pandas  
+**Skills:** Pandas Data Structures, Exploratory Data Analysis (EDA), Data Querying, Data Cleaning, Data Transformation, Data Reshaping, Data Aggregation, Relational Data Manipulation, Feature Engineering.
+
+**Topic 8**: Data Visualization (Python)  
+**Skills:** Basic Plotting, Figure Layout Design, Statistical Visualization, Matplotlib, Seaborn.
+
+**Topic 9**: Business Intelligence: Tableau Public  
+**Skills:** Data Blending, Calculated Fields, Visual Analytics, Interactive Dashboarding, Tableau Public, Data Storytelling.
+
+**Topic 10**: Business Intelligence: Power BI  
+**Skills:** Power Query (ETL), Data Modeling (Star Schema), DAX (Data Analysis Expressions), Power BI Visualization, Report Publishing, Power BI.
+
+**Topic 11**: Web Scraping & Data Collection  
+**Skills:** DOM Parsing, API Requests, BeautifulSoup, Web Scraping, Data Extraction.
+
+**Topic 12**: Databases & SQL (MySQL)  
+**Skills:** Relational Database Design, CRUD Operations, SQL Filtering, Complex Joins, Data Aggregation, Subqueries, Query Optimization, Database Automation, MySQL Workbench.
+
+**Topic 13**: Machine Learning Pipelines  
+**Skills:** Data Splitting, ML Pipelines, Predictive Modeling, Scikit-learn, Supervised Learning, Model Evaluation.
+
+**Topic 14**: Version Control & Deployment  
+**Skills:** Version Control, Code Conflict Resolution, Git/GitHub, Git Stashing, Code Collaboration.
 
 ---
 
-## Technical Skills:-
-* **Programming & Databases:** Python, SQL (MySQL), Advanced Excel, Power BI, Tableau
-* **Libraries & Packages:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, BeautifulSoup, requests, SQLAlchemy, mysql-connector-python, python-dotenv
-* **Tools & Environments:** VS Code, MySQL Workbench, Jupyter Lab, Anaconda, Git/GitHub, Linux/Windows environments
-* **Core Competencies:** Data Analytics Lifecycle, Data Governance, Exploratory Data Analysis (EDA), Predictive Modeling (Linear Regression, Random Forest), Data Storytelling & Dashboarding, Database Management & Optimization (Triggers, Stored Procedures, Views, Indexes), Complex Joins & ETL Pipelines
+### Technical Skills
+1. Languages & Databases
+    * Languages: Python (Advanced), SQL (MySQL)
+    * Databases: Relational Database Design, CRUD Operations, Complex Joins, Subqueries, Query Optimization
 
+2. Data Analysis & Machine Learning
+    * Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+    * Data Science: Exploratory Data Analysis (EDA), Predictive Modeling, ML Pipelines, Feature Engineering, Statistical Visualization
+    * Methodologies: Data Analytics Lifecycle, Data Governance, ETL Processes, Data Ethics
 
+3. Business Intelligence & Visualization
+    * BI Tools: Power BI (DAX, Power Query, Star Schema modeling), Tableau Public (Data Blending, Calculated Fields)
+    * Spreadsheets: Advanced Excel (Data Management, Pivot Tables, Complex Formulas)
+    * Reporting: Interactive Dashboarding, Data Storytelling, Report Publishing
 
+4. Data Engineering & Web Scraping
+    * Collection: Web Scraping (BeautifulSoup), API Requests (JSON Parsing), DOM Parsing
+    * File I/O: Context Managers, Binary I/O, Data Ingestion, Dependency Management
 
-
-1. Foundations of Data Analytics (Google Professional Certificate)
-**Skills unlocked:** Data Analytics Lifecycle, Data Governance, Critical Thinking, Spreadsheet Data Management, Advanced Excel, Data Ethics.
-
-2. Introduction to Data Science & Environments
-**Skills unlocked:** Environment Setup, Data Science Fundamentals, Conda Workflow, Jupyter Environments, Dependency Management.
-
-3. Python Fundamentals
-**Skills unlocked:** Python Scripting, Basic Python Skills, Data Type Management, String Manipulation, Decision Making Logic, Iteration & Control Flow, Sequence Data Structures, Mapping Data Structures, Modular Programming, Core Data Structures.
-
-4. Object-Oriented & Advanced Python
-**Skills unlocked:** Object-Oriented Programming (OOP), OOP Principles, Advanced Class Design, List/Dict Comprehensions, Functional Programming, Error Handling, Code Reusability.
-
-5. File I/O & Data Formats
-**Skills unlocked:** File Handling, Context Managers & Binary I/O, JSON Parsing, Data Ingestion.
-
-6. Analytics & Data Science: NumPy
-**Skills unlocked:** Memory Optimization, Array Manipulation, Dimensionality Management, Vectorized Operations, Numerical Computing, Matrix Operations, High-Performance Array Manipulation.
-
-7. Analytics & Data Science: Pandas
-**Skills unlocked:** Pandas Data Structures, Exploratory Data Analysis (EDA), Data Querying, Data Cleaning, Data Transformation, Data Reshaping, Data Aggregation, Relational Data Manipulation, Feature Engineering.
-
-8. Data Visualization (Python)
-**Skills unlocked:** Basic Plotting, Figure Layout Design, Statistical Visualization, Matplotlib, Seaborn.
-
-9. Business Intelligence: Tableau Public
-**Skills unlocked:** Data Blending, Calculated Fields, Visual Analytics, Interactive Dashboarding, Tableau Public, Data Storytelling.
-
-10. Business Intelligence: Power BI
-**Skills unlocked:** Power Query (ETL), Data Modeling (Star Schema), DAX (Data Analysis Expressions), Power BI Visualization, Report Publishing, Power BI.
-
-11. Web Scraping & Data Collection
-**Skills unlocked:** DOM Parsing, API Requests, BeautifulSoup, Web Scraping, Data Extraction.
-
-12. Databases & SQL (MySQL)
-**Skills unlocked:** Relational Database Design, CRUD Operations, SQL Filtering, Complex Joins, Data Aggregation, Subqueries, Query Optimization, Database Automation, MySQL Workbench.
-
-13. Machine Learning Pipelines
-**Skills unlocked:** Data Splitting, ML Pipelines, Predictive Modeling, Scikit-learn, Supervised Learning, Model Evaluation.
-
-14. Version Control & Deployment
-**Skills unlocked:** Version Control, Code Conflict Resolution, Git/GitHub, Git Stashing, Code Collaboration.
+5. Tools & Environment
+    * Version Control: Git, GitHub (Collaboration, Conflict Resolution, Stashing)
+    * Environments: VS Code, Jupyter Lab, Conda, Anaconda, MySQL Workbench, Obsidian
+    * Operating Systems: Proficient in Windows, Linux (Mint/XFCE), and macOS
